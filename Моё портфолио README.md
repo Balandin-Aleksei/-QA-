@@ -56,5 +56,5 @@ _Необходимо с помощью Postman протестировать р�
 1. Создать по вводным данным две таблицы SQL
 2. Составить 3 SQL запроса по созданным таблицам
 
-Ссылка на _doc_ файл с SQL запросами. https://docs.google.com/document/d/1WParHUXLz98JuMnAicJe1GYnG-rbvQPVWquu3XJL_xw/edit?usp=sharing
+  Ссылка на _doc_ файл с SQL запросами.  https://docs.google.com/document/d/1WParHUXLz98JuMnAicJe1GYnG-rbvQPVWquu3XJL_xw/edit?usp=sharing
 
