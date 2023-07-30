@@ -30,7 +30,7 @@
 
 Составить чек-лист проверок для главной страницы сайта https://cloud.ru/ru
 
-_Результат приложить в виде doc файла_
+- _Результат приложить в виде doc файла_
 
 Ссылка на чек-лист готовой работы. https://docs.google.com/spreadsheets/d/16JWe2gvHjRJ5VoBuNO72984Yl_liW0hvMnS2ky0kgDU/edit?usp=sharing
 
