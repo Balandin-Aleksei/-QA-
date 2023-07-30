@@ -46,4 +46,5 @@ _Необходимо с помощью Postman протестировать р�
 - lon 50
 - lat - 55
 - язык русский
-  
+
+  Ссылка на _doc_ файл с JSON коллекцией. https://docs.google.com/document/d/1tIMRq95pIZypKXE7UEAFFrUcPct1F4bEtT75z0bsKJY/edit?usp=sharing
