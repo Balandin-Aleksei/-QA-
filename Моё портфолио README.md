@@ -22,7 +22,7 @@
 
 - Ссылка на проект
 
-(https://balandin-lexa.atlassian.net/l/cp/HGmjyERf)
+<https://balandin-lexa.atlassian.net/l/cp/HGmjyERf>
 
 
 ### Проект 2: Тестовое задание SQL
@@ -34,7 +34,7 @@
 
  - Ссылка на _doc_ файл с SQL запросами
 
-(https://docs.google.com/document/d/1fJiJWAtUNsxRQWkzACKqsA4Z4f-8REqCAabSXqAKwHg/edit?usp=sharing)
+<https://docs.google.com/document/d/1fJiJWAtUNsxRQWkzACKqsA4Z4f-8REqCAabSXqAKwHg/edit?usp=sharing>
 
 ### Проект 3: Атестационная работа по прохождею 3-х курсов обучения.
 
@@ -48,7 +48,7 @@
 
 - Ссылка на чек-лист готовой работы.
 
- (https://docs.google.com/spreadsheets/d/16JWe2gvHjRJ5VoBuNO72984Yl_liW0hvMnS2ky0kgDU/edit?usp=sharing)
+ <https://docs.google.com/spreadsheets/d/16JWe2gvHjRJ5VoBuNO72984Yl_liW0hvMnS2ky0kgDU/edit?usp=sharing>
 
 #### Задание 2:
 
@@ -65,7 +65,7 @@ _Необходимо с помощью Postman протестировать р�
 
  - Ссылка на _doc_ файл с JSON коллекцией.
  
-  (https://docs.google.com/document/d/1tIMRq95pIZypKXE7UEAFFrUcPct1F4bEtT75z0bsKJY/edit?usp=sharing)
+  <https://docs.google.com/document/d/1tIMRq95pIZypKXE7UEAFFrUcPct1F4bEtT75z0bsKJY/edit?usp=sharing>
 
 #### Задание 3:
 
@@ -76,7 +76,7 @@ _Необходимо с помощью Postman протестировать р�
 
  - Ссылка на _doc_ файл с SQL запросами.
  
-  (https://docs.google.com/document/d/1WParHUXLz98JuMnAicJe1GYnG-rbvQPVWquu3XJL_xw/edit?usp=sharing)
+  <https://docs.google.com/document/d/1WParHUXLz98JuMnAicJe1GYnG-rbvQPVWquu3XJL_xw/edit?usp=sharing>
 
 ## Контактная информация
 
