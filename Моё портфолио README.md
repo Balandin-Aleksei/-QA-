@@ -32,8 +32,7 @@ https://balandin-lexa.atlassian.net/l/cp/HGmjyERf
 1. Создать и наполнить 4 таблицы
 2. Составить по созданным таблицам запросы
 
-   Ссылка на _doc_ файл с SQL запросами. https://docs.google.com/document/d/1fJiJWAtUNsxRQWkzACKqsA4Z4f-8REqCAabSXqAKwHg/edit?usp=sharing
-
+   Ссылка на _doc_ файл с SQL запросами
 
 https://docs.google.com/document/d/1fJiJWAtUNsxRQWkzACKqsA4Z4f-8REqCAabSXqAKwHg/edit?usp=sharing
 
