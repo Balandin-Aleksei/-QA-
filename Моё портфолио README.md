@@ -20,7 +20,9 @@
 3. Провести тестирование
 4. Написать отчет о результатах тестирования
 
-- Ссылка на проект https://balandin-lexa.atlassian.net/l/cp/fCtGW3yH
+- Ссылка на проект
+
+https://balandin-lexa.atlassian.net/l/cp/HGmjyERf
 
 ### Проект 2: Тестовое задание SQL
 
