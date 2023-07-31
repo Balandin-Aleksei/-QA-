@@ -24,7 +24,6 @@
 
 https://balandin-lexa.atlassian.net/l/cp/HGmjyERf
 
-https://balandin-lexa.atlassian.net/l/cp/HGmjyERf
 
 ### Проект 2: Тестовое задание SQL
 
@@ -35,6 +34,7 @@ https://balandin-lexa.atlassian.net/l/cp/HGmjyERf
 
    Ссылка на _doc_ файл с SQL запросами. https://docs.google.com/document/d/1fJiJWAtUNsxRQWkzACKqsA4Z4f-8REqCAabSXqAKwHg/edit?usp=sharing
 
+https://docs.google.com/document/d/1fJiJWAtUNsxRQWkzACKqsA4Z4f-8REqCAabSXqAKwHg/edit?usp=sharing
 
 ### Проект 3: Атестационная работа по прохождею 3-х курсов обучения.
 
