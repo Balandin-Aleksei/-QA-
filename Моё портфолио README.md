@@ -20,7 +20,7 @@
 3. Провести тестирование
 4. Написать отчет о результатах тестирования
 
-- Ссылка на проект
+- [Ссылка на проект]
 
 (https://balandin-lexa.atlassian.net/l/cp/HGmjyERf)
 
@@ -34,7 +34,7 @@
 
    Ссылка на _doc_ файл с SQL запросами
 
-https://docs.google.com/document/d/1fJiJWAtUNsxRQWkzACKqsA4Z4f-8REqCAabSXqAKwHg/edit?usp=sharing
+(https://docs.google.com/document/d/1fJiJWAtUNsxRQWkzACKqsA4Z4f-8REqCAabSXqAKwHg/edit?usp=sharing)
 
 ### Проект 3: Атестационная работа по прохождею 3-х курсов обучения.
 
@@ -46,7 +46,7 @@ https://docs.google.com/document/d/1fJiJWAtUNsxRQWkzACKqsA4Z4f-8REqCAabSXqAKwHg/
 
 - _Результат приложить в виде doc файла_
 
-Ссылка на чек-лист готовой работы. https://docs.google.com/spreadsheets/d/16JWe2gvHjRJ5VoBuNO72984Yl_liW0hvMnS2ky0kgDU/edit?usp=sharing
+[Ссылка на чек-лист готовой работы.] (https://docs.google.com/spreadsheets/d/16JWe2gvHjRJ5VoBuNO72984Yl_liW0hvMnS2ky0kgDU/edit?usp=sharing)
 
 #### Задание 2:
 
@@ -61,7 +61,7 @@ _Необходимо с помощью Postman протестировать р�
 - lat - 55
 - язык русский
 
-  Ссылка на _doc_ файл с JSON коллекцией. https://docs.google.com/document/d/1tIMRq95pIZypKXE7UEAFFrUcPct1F4bEtT75z0bsKJY/edit?usp=sharing
+  [Ссылка на _doc_ файл с JSON коллекцией.] (https://docs.google.com/document/d/1tIMRq95pIZypKXE7UEAFFrUcPct1F4bEtT75z0bsKJY/edit?usp=sharing)
 
 #### Задание 3:
 
@@ -70,7 +70,7 @@ _Необходимо с помощью Postman протестировать р�
 1. Создать по вводным данным две таблицы SQL
 2. Составить 3 SQL запроса по созданным таблицам
 
-  Ссылка на _doc_ файл с SQL запросами.  https://docs.google.com/document/d/1WParHUXLz98JuMnAicJe1GYnG-rbvQPVWquu3XJL_xw/edit?usp=sharing
+  [Ссылка на _doc_ файл с SQL запросами.]  (https://docs.google.com/document/d/1WParHUXLz98JuMnAicJe1GYnG-rbvQPVWquu3XJL_xw/edit?usp=sharing)
 
 ## Контактная информация
 
