@@ -22,7 +22,7 @@
 
 - Ссылка на проект
 
-https://balandin-lexa.atlassian.net/l/cp/HGmjyERf
+(https://balandin-lexa.atlassian.net/l/cp/HGmjyERf)
 
 
 ### Проект 2: Тестовое задание SQL
