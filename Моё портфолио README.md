@@ -22,7 +22,7 @@
 
 - Ссылка на проект
 
-<https://balandin-lexa.atlassian.net/l/cp/HGmjyERf>
+<https://balandin-lexa.atlassian.net/wiki/spaces/~639b935f2aac389d02c28fc1/pages/3473409/-+UI+API+Skyeng+Teachers>
 
 
 ### Проект 2: Тестовое задание SQL
